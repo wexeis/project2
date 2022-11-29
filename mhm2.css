@@ -1,0 +1,139 @@
+body{
+    background-color:#212b2d ;
+    height: 1300px;
+   width: 80%;
+ 
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 180px;
+  padding-right: 180px;
+
+ 
+
+}
+
+img{
+   padding-bottom: 20 px; 
+}
+.section1 {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    
+
+overflow: visible;
+}
+
+.section1text{
+    color: white;
+    margin-left: 15%;
+    position: absolute;
+  bottom: 20px;
+  right: 1050px;
+  
+  
+  padding-left: 20px;
+  padding-right: 20px;
+
+
+}
+.nav{
+
+    list-style-type: none;
+width: 1240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+margin-top: 50px;
+  }
+
+ .lo {
+display: block;
+
+
+    border-right:1px solid #bbb;
+  }
+  .lo a {
+    display: block;
+    color: white;
+   margin-top: 15px;
+   margin-right: 4vw;
+    text-decoration: none;
+    text-align: center;
+
+
+
+  }
+    .exception a {
+    display: block;
+    color: white;
+    padding: 14px 18px;
+    text-decoration: none;
+
+  }
+
+  
+  li a:hover{
+background-color: gray;
+color: white ;
+}
+  .bdry{
+    margin-top: 20px;
+
+    height: 590px;
+    background-color: #212b2d;
+    width: 100%;
+  }
+  .first{
+    width:30%
+  }
+  .men{
+    margin-left: 4vw;
+  }
+  .gal{
+    width:70%;
+   
+  }
+  .hed{
+    display: flex;
+  }
+  .secondsection{
+    display: flex;
+  }
+  .left
+  {
+    width: 30%;
+
+  }
+  .middle{
+    width: 30%;
+    margin-top: -40px;
+  }
+  .lin{
+width: 10%;
+border-right: 4px solid #7a8a8b;
+margin-right: 30px;
+margin-top: -40px;
+
+  }
+
+  .right{
+    width:30%;
+    margin-top: -40px;
+  }
+  .but{
+    width: 25%;
+    height: 15%;
+    color: black;
+    background-color: #97a9ab;
+  }
+.foot{
+  text-align: center;
+}
+.gray {
+  color: #7a8a8b;
+}
+</style>
